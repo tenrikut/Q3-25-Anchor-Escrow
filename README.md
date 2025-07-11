@@ -84,4 +84,4 @@ anchor-escrow/
 
 ## License
 
-ISC
+MIT License
