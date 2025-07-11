@@ -21,7 +21,7 @@ A Solana smart contract (program) for creating and managing token escrows, built
 
 1. **Clone the repo:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/tenrikut/Q3-25-Anchor-Escrow.git
    cd anchor-escrow
    ```
 2. **Install dependencies:**
